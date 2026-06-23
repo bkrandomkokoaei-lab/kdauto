@@ -280,7 +280,7 @@ body {
 }
 
 /* Latest Vehicles Styles */
-.vehicles-grid {
+.vehicles-grid {flex-wrap: wrap;
     display: flex;
     justify-content: space-between;
 }
